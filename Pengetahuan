@@ -1,0 +1,11 @@
+
+  # Talent Casting Platform
+
+Morelux Agency adalah platform Talent Casting Online yang dirancang untuk mempertemukan client (brand, production house, event organizer) dengan talent/model secara lebih cepat, mudah, dan transparan.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
